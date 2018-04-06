@@ -143,5 +143,5 @@
 </tbody>
 </table>
 #Course Evaluation
-* [Mini- project]
-* [Poster presentation]
+* [Mini- project](# Midsemprojects)
+* [Poster presentation](# Endprojects)
