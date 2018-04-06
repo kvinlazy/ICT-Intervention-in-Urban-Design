@@ -1,5 +1,5 @@
 # ICT_Intervation_Urban_Design
-<table width="608">
+<table width="532">
 <tbody>
 <tr>
 <td width="50">
@@ -11,22 +11,16 @@
 <td width="264">
 <p>Description</p>
 </td>
-<td width="77">
-<p>Hours</p>
-</td>
 </tr>
 <tr>
 <td width="50">
 <p>1</p>
 </td>
 <td width="217">
-<p>Technology Intervention</p>
+  <p><a href="Dailytechnology.pdf">Technology Intervention</a></p>
 </td>
 <td width="264">
 <p>How technology is useful in day to day life</p>
-</td>
-<td width="77">
-<p>2</p>
 </td>
 </tr>
 <tr>
@@ -39,9 +33,6 @@
 <td width="264">
 <p>Various software and its use in Urban Design</p>
 </td>
-<td width="77">
-<p>2</p>
-</td>
 </tr>
 <tr>
 <td width="50">
@@ -52,9 +43,6 @@
 </td>
 <td width="264">
 <p>Detail Description of Sensor and Actuators &amp; How to use them</p>
-</td>
-<td width="77">
-<p>2</p>
 </td>
 </tr>
 <tr>
@@ -67,9 +55,6 @@
 <td width="264">
 <p>IOT embedded systems like smart phones play important role. In this section building of virtual system online and understanding will be taught.</p>
 </td>
-<td width="77">
-<p>2</p>
-</td>
 </tr>
 <tr>
 <td width="50">
@@ -80,9 +65,6 @@
 </td>
 <td width="264">
 <p>Everyone in today&rsquo;s world want to learn how to build App like WhatsApp and other. Simple tool to do this will be taught</p>
-</td>
-<td width="77">
-<p>4</p>
 </td>
 </tr>
 <tr>
@@ -95,9 +77,6 @@
 <td width="264">
 <p>Develop one of the application in class for better understanding of technology</p>
 </td>
-<td width="77">
-<p>2</p>
-</td>
 </tr>
 <tr>
 <td width="50">
@@ -108,9 +87,6 @@
 </td>
 <td width="264">
 <p>The impact of the digital future on the design of public urban spaces</p>
-</td>
-<td width="77">
-<p>2</p>
 </td>
 </tr>
 <tr>
@@ -123,9 +99,6 @@
 <td width="264">
 <p>The role of ICT in city development</p>
 </td>
-<td width="77">
-<p>2</p>
-</td>
 </tr>
 <tr>
 <td width="50">
@@ -137,16 +110,10 @@
 <td width="264">
 <p>How robotics has impact on future cities</p>
 </td>
-<td width="77">
-<p>2</p>
-</td>
 </tr>
 <tr>
 <td colspan="3" width="532">
 <p>&nbsp;</p>
-</td>
-<td width="77">
-<p>20</p>
 </td>
 </tr>
 </tbody>
