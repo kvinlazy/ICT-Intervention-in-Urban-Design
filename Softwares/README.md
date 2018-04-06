@@ -1,2 +1,2 @@
-# [GIS](GIS&GIMP)
-# [INKSCAPE](InkscapeTutorial)
+# [GIS](#GIS&GIMP)
+# [INKSCAPE](#Inkscape-Tutorial)
