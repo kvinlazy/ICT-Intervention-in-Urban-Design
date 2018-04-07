@@ -149,6 +149,7 @@ Students will achieve the following knowledge
 </tr>
 </tbody>
 </table>
-#Course Evaluation
+
+# Course Evaluation
 * [Mini- project](# Midsemprojects)
 * [Poster presentation](# Endprojects)
