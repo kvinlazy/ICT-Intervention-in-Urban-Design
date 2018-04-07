@@ -1,11 +1,16 @@
 # Course Title
- <div class="align-justify"> ICT intervention in Urban Design</div> 
+ICT intervention in Urban Design 
+
 # Course Description
-### Recent past technology has transfer our day to day life, simple examples are Smartphone, Laptop etc. During the past two decades, ICTs have become so pervasive and disruptive that their impact on planning and social relationships has begun to reach far beyond their immediate use as efficient bookkeeping and automation tools. ICT infrastructure has also led to vast changes in the body of the city. According to depth and breadth of these developments, it is essential to understand the new direction of this flow through the physical transformation of the city affected by this new technology.
-### "If you think that the internet has changed your life, think again. IoT is about to change it all over again!” — Brendan O’Brien, Aria systems
-### When we talk about Internet of Thing, it’s not just putting RFID tags on some dumb thing is. Can you imagine a computing concept where everyday objects have network connectivity? Is it possible for ordinary devices to communicate among themselves?
-### Yes!! And the answer is ‘Internet of Things’.
-### This course will examine ICT impacts on area of urban design, development of basic technology and understanding advancement of technology. We will utilize readings, class discussion, guest lectures, and homework exercises to identify and critique key trends, relevant theories, and promising directions for research and professional practice. Course Pre-requisite No specific requirement, Course is designed for beginners. 
+Recent past technology has transfer our day to day life, simple examples are Smartphone, Laptop etc. During the past two decades, ICTs have become so pervasive and disruptive that their impact on planning and social relationships has begun to reach far beyond their immediate use as efficient bookkeeping and automation tools. ICT infrastructure has also led to vast changes in the body of the city. According to depth and breadth of these developments, it is essential to understand the new direction of this flow through the physical transformation of the city affected by this new technology.
+
+"If you think that the internet has changed your life, think again. IoT is about to change it all over again!” — Brendan O’Brien, Aria systems
+
+When we talk about Internet of Thing, it’s not just putting RFID tags on some dumb thing is. Can you imagine a computing concept where everyday objects have network connectivity? Is it possible for ordinary devices to communicate among themselves?
+Yes!! And the answer is ‘Internet of Things’.
+
+This course will examine ICT impacts on area of urban design, development of basic technology and understanding advancement of technology. We will utilize readings, class discussion, guest lectures, and homework exercises to identify and critique key trends, relevant theories, and promising directions for research and professional practice. Course Pre-requisite No specific requirement, Course is designed for beginners. 
+
 # Course Objective
 * To introduce the current developed technology and its impact on the world.
 * To understand the challenges that must be overcome before technology can be deployed.
@@ -16,8 +21,9 @@
 * Able to understand building blocks of technology and characteristics.
 * Understand Market perspective.
 * Real World IoT Design Constraints, Industrial Automation and Commercial Building Automation in IoT.
+
 # Learning Outcomes
-### Students will achieve the following knowledge
+Students will achieve the following knowledge
 * Which technology to use and how is it build.
 * Evaluation of technology for future application.
 * How decision based on various data through technology can be made.
@@ -27,6 +33,7 @@
 * Implementation of software for applications, including both low-level firmware on embedded devices and higher-level data processing for data obtained from sensors, taking ideas and techniques from recent research in the area.
 * Develop application software of moderate complexity for a well-used mobile platform.
 * Critically discuss current research issues and application areas of the Internet of Things and mobile devices, including an understanding of the commercial context and privacy/security issues, and make wellinformed speculations on the future of the area.
+
 # Module Details
 <table width="532">
 <tbody>
@@ -142,6 +149,7 @@
 </tr>
 </tbody>
 </table>
+
 #Course Evaluation
 * [Mini- project](# Midsemprojects)
 * [Poster presentation](# Endprojects)
