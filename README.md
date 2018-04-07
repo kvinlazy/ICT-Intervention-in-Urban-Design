@@ -39,13 +39,13 @@ Students will achieve the following knowledge
 <tbody>
 <tr>
 <td width="50">
-<p><b>Sr. No.</p>
+  <p><b>Sr. No.</b></p>
 </td>
 <td width="217">
-<p><b>Title</p>
+  <p><b>Title</b></p>
 </td>
 <td width="264">
-<p><b>Description</p>
+  <p><b>Description</b></p>
 </td>
 </tr>
 <tr>
