@@ -151,5 +151,5 @@ Students will achieve the following knowledge
 </table>
 
 # Course Evaluation
-* [Mini- project](# Midsemprojects)
-* [Poster presentation](# Endprojects)
+* [Mini- project](Midsemprojects)
+* [Poster presentation](Endprojects)
