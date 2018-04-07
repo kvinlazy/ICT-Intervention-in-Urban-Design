@@ -1,5 +1,5 @@
 # Course Title
-### ICT intervention in Urban Design 
+ <div class="align-justify"> ICT intervention in Urban Design</div> 
 # Course Description
 ### Recent past technology has transfer our day to day life, simple examples are Smartphone, Laptop etc. During the past two decades, ICTs have become so pervasive and disruptive that their impact on planning and social relationships has begun to reach far beyond their immediate use as efficient bookkeeping and automation tools. ICT infrastructure has also led to vast changes in the body of the city. According to depth and breadth of these developments, it is essential to understand the new direction of this flow through the physical transformation of the city affected by this new technology.
 ### "If you think that the internet has changed your life, think again. IoT is about to change it all over again!” — Brendan O’Brien, Aria systems
